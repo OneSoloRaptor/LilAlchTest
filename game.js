@@ -1,4 +1,3 @@
-
 // ===== Pixel Alchemy: APCSA Edition =====
 
 // --- Element Data with Explanations ---
